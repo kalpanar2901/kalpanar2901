@@ -41,34 +41,7 @@ I specialize in designing enterprise-grade data pipelines, optimizing large-scal
 - DevOps for Data Platforms
 
 ---
-
-## 🎓 Certifications
-
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Microsoft Certified: Azure Data Fundamentals (DP-900)
-- Microsoft Certified: Fabric Data Engineer Associate
-
----
-
-## 🤖 Current Focus
-
-- AI-driven Data Engineering Solutions  
-- Intelligent Data Pipelines & Automation  
-- AI-assisted DevOps & CI/CD Optimization  
-- Building AI-powered Analytics & Data Products  
-
----
-
-## 🤝 Open To
-
-Azure Data Engineer | Cloud Data Engineer | Data Platform Engineer | AI-Driven Data Engineering Roles
-
----
-
 ## Languages and tools
----
-
-## 🧰 Tech Stack
 
 <p align="left">
 
@@ -103,3 +76,28 @@ Azure Data Engineer | Cloud Data Engineer | Data Platform Engineer | AI-Driven D
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 
 </p>
+
+---
+## 🎓 Certifications
+
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure Data Fundamentals (DP-900)
+- Microsoft Certified: Fabric Data Engineer Associate
+
+---
+
+## 🤖 Current Focus
+
+- AI-driven Data Engineering Solutions  
+- Intelligent Data Pipelines & Automation  
+- AI-assisted DevOps & CI/CD Optimization  
+- Building AI-powered Analytics & Data Products  
+
+---
+
+## 🤝 Open To
+
+Azure Data Engineer | Cloud Data Engineer | Data Platform Engineer | AI-Driven Data Engineering Roles
+
+---
+
