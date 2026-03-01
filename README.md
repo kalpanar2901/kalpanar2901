@@ -65,6 +65,11 @@ Azure Data Engineer | Cloud Data Engineer | Data Platform Engineer | AI-Driven D
 
 ---
 
+## Languages and tools
+---
+
+## 🧰 Tech Stack
+
 <p align="left">
 
   <!-- Azure -->
@@ -72,6 +77,9 @@ Azure Data Engineer | Cloud Data Engineer | Data Platform Engineer | AI-Driven D
 
   <!-- Azure DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40" alt="Azure DevOps" />
+
+  <!-- Databricks -->
+  <img src="https://cdn.simpleicons.org/databricks/E81C23" height="40" alt="Databricks" />
 
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
